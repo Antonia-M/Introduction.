@@ -1,0 +1,66 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled1.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyPzVCMCvDagTbYa/rejXIhp",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Antonia-M/Introduction./blob/main/Introduction%20assignment\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "8FTVBi_dFfbW",
+        "outputId": "4ae03668-e937-4c3c-c8a7-0a0e68a945a6"
+      },
+      "source": [
+        "#Enter first and last name\n",
+        "names = input(\"Enter first and last name\")\n",
+        "print(names)\n",
+        "print()\n",
+        "#Enter your goals for this class\n",
+        "print(\"What are your goals for this class - long term goals?\")\n",
+        "goals = input('What would you like to be....when all is said and done with the class?')\n",
+        "print(goals)"
+      ],
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "Enter first and last nameAntonia Mwangi\n",
+            "Antonia Mwangi\n",
+            "\n",
+            "What are your goals for this class - long term goals?\n",
+            "What would you like to be....when all is said and done with the class?an expert in data analysis\n",
+            "an expert in data analysis\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    }
+  ]
+}
